@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>En-Chi Cheng&#39;s Personal Website</title>
+    <link>https://enchicheng.github.io/latest/</link>
+      <atom:link href="https://enchicheng.github.io/latest/index.xml" rel="self" type="application/rss+xml" />
+    <description>En-Chi Cheng&#39;s Personal Website</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://enchicheng.github.io/media/icon_hu15242845165724663846.png</url>
+      <title>En-Chi Cheng&#39;s Personal Website</title>
+      <link>https://enchicheng.github.io/latest/</link>
+    </image>
+    
+    <item>
+      <title>Celebrating my first website!!! 🎉</title>
+      <link>https://enchicheng.github.io/latest/20250615/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://enchicheng.github.io/latest/20250615/</guid>
+      <description>&lt;p&gt;Having a personal website has been a long-time dream of mine. As a musician, technology often felt distant and unfamiliar. Earlier this spring, my dear friend Wei—a brilliant AI scientist—generously offered to help me build this custom site. A few weeks of coding later, here it is: my freshly launched website.&lt;/p&gt;
+&lt;p&gt;Thank you, Wei, for being a wonderful friend and the guiding light in my new coding journey. I hope everyone visiting enjoys it as much as I do.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2025 Summer Season (July - August)</title>
+      <link>https://enchicheng.github.io/latest/20250701/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://enchicheng.github.io/latest/20250701/</guid>
+      <description>&lt;p&gt;I’m excited to be returning to the &lt;a href=&#34;https://cmceast.org/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chamber Music Conference (CMC)&lt;/a&gt; at &lt;strong&gt;Hamilton, NY&lt;/strong&gt; as a faculty member for Week 1, from July 6 to July 13. Alongside a full week of teaching, I’ll be performing &lt;strong&gt;Haydn’s String Quartet in C Major, Op. 20, No. 2&lt;/strong&gt; on Wednesday, July 9, with fellow faculty members Yezu Woo, Mayuki Fukuhara, and Laura Metcalf. I’m really looking forward to making music together and reconnecting with the CMC community.&lt;/p&gt;
+&lt;p&gt;In August, I’ll be heading to &lt;strong&gt;Taiwan&lt;/strong&gt; for two chamber music concerts—in &lt;a href=&#34;https://enchicheng.github.io/calendar/20250809/&#34;&gt;Tainan&lt;/a&gt; and &lt;a href=&#34;https://enchicheng.github.io/calendar/20250814/&#34;&gt;Taipei&lt;/a&gt;&amp;mdash;presented by the Wan Sha Performing Arts Center. Back when I was a student at the Curtis Institute of Music, I performed &lt;strong&gt;Taneyev’s Piano Quintet in G Minor, Op. 30&lt;/strong&gt; with my friend and wonderful violinist, Hsuan-Hao Hsu. We were both so inspired by the piece that we promised to play it again someday in our home country. Now, twelve years later, that promise is finally coming true!&lt;/p&gt;
+&lt;p&gt;I’m especially excited to collaborate for the first time with Simon Thompson, principal cellist of the National Symphony Orchestra (Taiwan), and pianist Oscar Lin, assistant professor at the National Taipei University of Education. I’ll also be performing again with the fantastic violinist Hsin-Yun Wu.&lt;/p&gt;
+&lt;p&gt;I’m truly looking forward to these musical moments this summer—can’t wait to share them with you!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
