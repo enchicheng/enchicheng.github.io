@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>En-Chi Cheng&#39;s Personal Website</title>
+    <title>En-Chi Cheng | Viola</title>
     <link>https://enchicheng.github.io/latest/</link>
       <atom:link href="https://enchicheng.github.io/latest/index.xml" rel="self" type="application/rss+xml" />
-    <description>En-Chi Cheng&#39;s Personal Website</description>
+    <description>En-Chi Cheng | Viola</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://enchicheng.github.io/media/icon_hu15242845165724663846.png</url>
-      <title>En-Chi Cheng&#39;s Personal Website</title>
+      <url>https://enchicheng.github.io/media/sharing.jpg</url>
+      <title>En-Chi Cheng | Viola</title>
       <link>https://enchicheng.github.io/latest/</link>
     </image>
     
