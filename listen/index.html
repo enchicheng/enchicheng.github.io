@@ -3,7 +3,7 @@
 <!-- Last Published: June 28, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -44,7 +44,7 @@
   <meta name="description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/recordings/" />
+  <link rel="alternate" hreflang="en-us" href="https://enchicheng.github.io/listen/" />
 
   
   
@@ -133,6 +133,45 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J8D481B9LH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-J8D481B9LH', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
 
 
 
@@ -159,14 +198,14 @@
 
   
   
-    <link rel="alternate" href="/recordings/index.xml" type="application/rss+xml" title="En-Chi Cheng | Viola" />
+    <link rel="alternate" href="/listen/index.xml" type="application/rss+xml" title="En-Chi Cheng | Viola" />
   
 
   
   <link rel="icon" type="image/png" href="/media/icon_hu3649481514232531845.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu9081148385832437953.png" />
 
-  <link rel="canonical" href="http://localhost:1313/recordings/" />
+  <link rel="canonical" href="https://enchicheng.github.io/listen/" />
 
   
   
@@ -191,10 +230,10 @@
     <meta property="twitter:creator" content="@GetResearchDev" />
   
   <meta property="og:site_name" content="En-Chi Cheng | Viola" />
-  <meta property="og:url" content="http://localhost:1313/recordings/" />
+  <meta property="og:url" content="https://enchicheng.github.io/listen/" />
   <meta property="og:title" content="En-Chi Cheng | Viola" />
-  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="http://localhost:1313/media/sharing.jpg" />
-    <meta property="twitter:image" content="http://localhost:1313/media/sharing.jpg" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="https://enchicheng.github.io/media/sharing.jpg" />
+    <meta property="twitter:image" content="https://enchicheng.github.io/media/sharing.jpg" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2025-06-20T00:00:00&#43;00:00" />
@@ -518,8 +557,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.js"
-    integrity=""
+    src="/js/hugo-blox-en.min.47736f84e20cae1bb2224dc4605239689e913811575e32b5f86a700ee9d6529d.js"
+    integrity="sha256-R3NvhOIMrhuyIk3EYFI5aJ6ROBFXXjK1&#43;GpwDunWUp0="
   ></script>
 
   
@@ -654,8 +693,8 @@
         <a
           class="nav-link "
           
-          href="/bio"
-        >About</a
+          href="/latest"
+        >Latest</a
         >
       </li>
       
@@ -668,8 +707,8 @@
         <a
           class="nav-link "
           
-          href="/latest"
-        >Latest</a
+          href="/bio"
+        >About</a
         >
       </li>
       
@@ -710,8 +749,8 @@
         <a
           class="nav-link "
           
-          href="/recordings"
-        >Recordings</a
+          href="/listen"
+        >Listen</a
         >
       </li>
       
@@ -903,7 +942,7 @@
 
 
 <section id="recordings-page" class="relative hbb-section blox-collection  min-h-screen text-dark dark:text-dark"  >
- <div class="home-section-bg  bg-image parallax" style="background-image: url(&#39;http://localhost:1313/media/albums/my_gallery_unlisted/website_photo_13_hu11066403058574208650.webp&#39;);">
+ <div class="home-section-bg  bg-image parallax" style="background-image: url(&#39;https://enchicheng.github.io/media/albums/my_gallery_unlisted/website_photo_13_hu11066403058574208650.webp&#39;);">
    
  </div>
   
@@ -968,7 +1007,7 @@
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6 md:px-0">
 
   <div class="mb-0 text-3xl font-bold text-gray-900 dark:text-white">
-    Recordings
+    Listen
   </div>
 
   
@@ -1010,13 +1049,13 @@
 
     <a
       class="relative block aspect-video"
-      href="/recordings/bach_1007_prelude_2015/" >
+      href="/listen/bach_1007_prelude_2015/" >
 
       <img alt="Bach: Cello Suite No.1 in G Major, BWV 1007: Prelude"
            class="object-fill transition-all"
            data-nimg="fill"
            decoding="async"
-           fetchpriority="high" height="540" loading="lazy" src="/recordings/bach_1007_prelude_2015/featured_hu4953205721867439062.webp"
+           fetchpriority="high" height="540" loading="lazy" src="/listen/bach_1007_prelude_2015/featured_hu4953205721867439062.webp"
            style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
            width="960"></a>
   </div>
@@ -1028,13 +1067,13 @@
       </div>
       
       <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/recordings/bach_1007_prelude_2015/" ><span
+        href="/listen/bach_1007_prelude_2015/" ><span
         class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">Bach: Cello Suite No.1 in G Major, BWV 1007: Prelude
           </span></a>
       </h2>
       
       <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/recordings/bach_1007_prelude_2015/" >
+        href="/listen/bach_1007_prelude_2015/" >
         July 10, 2015
 Francis Auditorium at Mary Baldwin University (Staunton VA, USA)
 2015 Heifetz International Music Institute</a></p>
@@ -1074,13 +1113,13 @@ Francis Auditorium at Mary Baldwin University (Staunton VA, USA)
 
     <a
       class="relative block aspect-video"
-      href="/recordings/schumann_73_2018/" >
+      href="/listen/schumann_73_2018/" >
 
       <img alt="Schumann: Fantasiestucke, Op. 73"
            class="object-fill transition-all"
            data-nimg="fill"
            decoding="async"
-           fetchpriority="high" height="540" loading="lazy" src="/recordings/schumann_73_2018/featured_hu14422842610424497335.webp"
+           fetchpriority="high" height="540" loading="lazy" src="/listen/schumann_73_2018/featured_hu14422842610424497335.webp"
            style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
            width="960"></a>
   </div>
@@ -1092,13 +1131,13 @@ Francis Auditorium at Mary Baldwin University (Staunton VA, USA)
       </div>
       
       <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/recordings/schumann_73_2018/" ><span
+        href="/listen/schumann_73_2018/" ><span
         class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">Schumann: Fantasiestucke, Op. 73
           </span></a>
       </h2>
       
       <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/recordings/schumann_73_2018/" >
+        href="/listen/schumann_73_2018/" >
         September 12, 2018
 Studio 1, Bayerischer Rundfunk (Munich, Germany)
 67th ARD International Music Competition (Round 2)</a></p>
@@ -1138,13 +1177,13 @@ Studio 1, Bayerischer Rundfunk (Munich, Germany)
 
     <a
       class="relative block aspect-video"
-      href="/recordings/beethoven_25_2021/" >
+      href="/listen/beethoven_25_2021/" >
 
       <img alt="Beethoven: Serenade for Flute, Violin, and Viola in D Major, Op. 25"
            class="object-fill transition-all"
            data-nimg="fill"
            decoding="async"
-           fetchpriority="high" height="540" loading="lazy" src="/recordings/beethoven_25_2021/Featured_hu12765854964087942187.webp"
+           fetchpriority="high" height="540" loading="lazy" src="/listen/beethoven_25_2021/Featured_hu12765854964087942187.webp"
            style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
            width="960"></a>
   </div>
@@ -1156,13 +1195,13 @@ Studio 1, Bayerischer Rundfunk (Munich, Germany)
       </div>
       
       <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/recordings/beethoven_25_2021/" ><span
+        href="/listen/beethoven_25_2021/" ><span
         class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">Beethoven: Serenade for Flute, Violin, and Viola in D Major, Op. 25
           </span></a>
       </h2>
       
       <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/recordings/beethoven_25_2021/" >
+        href="/listen/beethoven_25_2021/" >
         January 09, 2021
 Wan Sha Performing Arts Center (Tainan, Taiwan)</a></p>
       </div>
@@ -1201,13 +1240,13 @@ Wan Sha Performing Arts Center (Tainan, Taiwan)</a></p>
 
     <a
       class="relative block aspect-video"
-      href="/recordings/ra_triple-concerto_2021/" >
+      href="/listen/ra_triple-concerto_2021/" >
 
       <img alt="Ra: Concerto for Three Violas and Strings (World Premiere)"
            class="object-fill transition-all"
            data-nimg="fill"
            decoding="async"
-           fetchpriority="high" height="540" loading="lazy" src="/recordings/ra_triple-concerto_2021/Featured_hu14296877814092117914.webp"
+           fetchpriority="high" height="540" loading="lazy" src="/listen/ra_triple-concerto_2021/Featured_hu14296877814092117914.webp"
            style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
            width="960"></a>
   </div>
@@ -1219,13 +1258,13 @@ Wan Sha Performing Arts Center (Tainan, Taiwan)</a></p>
       </div>
       
       <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/recordings/ra_triple-concerto_2021/" ><span
+        href="/listen/ra_triple-concerto_2021/" ><span
         class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">Ra: Concerto for Three Violas and Strings (World Premiere)
           </span></a>
       </h2>
       
       <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/recordings/ra_triple-concerto_2021/" >
+        href="/listen/ra_triple-concerto_2021/" >
         September 18, 2021
 Jordan Hall (Boston MA, USA)</a></p>
       </div>
