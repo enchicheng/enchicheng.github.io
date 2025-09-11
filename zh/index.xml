@@ -18,13 +18,16 @@
       <pubDate>Fri, 10 Jul 2015 00:00:00 +0000</pubDate>
       <guid>https://enchicheng.github.io/zh/listen/bach_1007_prelude_2015/</guid>
       <description>&lt;!-- Or embed directly in the body: --&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/P0h84MvEteM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div class=&#34;bilibili&#34;&gt;
+  &lt;iframe 
+    src=&#34;https://player.bilibili.com/player.html?bvid=BV1ymaSzjE91&amp;page=1&#34; 
+    scrolling=&#34;no&#34; 
+    border=&#34;0&#34; 
+    frameborder=&#34;no&#34; 
+    framespacing=&#34;0&#34; 
+    allowfullscreen=&#34;true&#34; 
+    style=&#34;width: 100%; height: 500px;&#34;&gt;
+  &lt;/iframe&gt;
 
 &lt;p&gt;2015年7月10日&lt;br&gt;Francis Auditorium at Mary Baldwin University (Staunton, 弗吉尼亚州, 美国)&lt;br&gt;2015 海菲兹音乐节&lt;/p&gt;
 &lt;p&gt;中提琴 / 郑恩麒&lt;/p&gt;
@@ -38,13 +41,16 @@
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://enchicheng.github.io/zh/listen/schumann_73_2018/</guid>
       <description>&lt;!-- Or embed directly in the body: --&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FrQwvLJK4gk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+&lt;div class=&#34;bilibili&#34;&gt;
+  &lt;iframe 
+    src=&#34;https://player.bilibili.com/player.html?bvid=BV18VaxzHEg6&amp;page=1&#34; 
+    scrolling=&#34;no&#34; 
+    border=&#34;0&#34; 
+    frameborder=&#34;no&#34; 
+    framespacing=&#34;0&#34; 
+    allowfullscreen=&#34;true&#34; 
+    style=&#34;width: 100%; height: 500px;&#34;&gt;
+  &lt;/iframe&gt;
 
 &lt;p&gt;2018年9月12日&lt;br&gt;
 Studio 1, Bayerischer Rundfunk (慕尼黑, 德国)&lt;br&gt;
@@ -116,6 +122,16 @@ Jordan Hall (波士顿, 马萨诸塞州, 美国)&lt;/p&gt;
     </item>
     
     <item>
+      <title>Crafting Friendships - The Moscow Clayworks Collection (Scranton, 宾州, USA)</title>
+      <link>https://enchicheng.github.io/zh/calendar/20251003/</link>
+      <pubDate>Fri, 03 Oct 2025 18:00:00 +0000</pubDate>
+      <guid>https://enchicheng.github.io/zh/calendar/20251003/</guid>
+      <description>&lt;h4 id=&#34;演出曲目&#34;&gt;演出曲目&lt;/h4&gt;
+&lt;p&gt;作曲家Garth Knox、Daniel Temkin李哲艺与Dave Soldier的中提琴独奏作品&lt;br&gt;    中提琴 / 郑恩麒&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>《名琴新韵，璀璨星光》 (云林县, 台湾)</title>
       <link>https://enchicheng.github.io/zh/calendar/20250927/</link>
       <pubDate>Sat, 27 Sep 2025 14:30:00 +0000</pubDate>
@@ -135,6 +151,37 @@ Jordan Hall (波士顿, 马萨诸塞州, 美国)&lt;/p&gt;
 &lt;p&gt;德沃夏克：降E大调第二号钢琴四重奏，作品87&lt;br&gt;    第四乐章：终曲，不太快的快板&lt;/p&gt;
 &lt;h4 id=&#34;表演者&#34;&gt;表演者&lt;/h4&gt;
 &lt;p&gt;    钢琴 / 廖皎含&lt;br&gt;    钢琴 / 李其叡&lt;br&gt;    女高音 / 赖珏妤&lt;br&gt;    男高音 / 林义伟&lt;br&gt;    小提琴 / 许轩豪&lt;br&gt;    中提琴 / 郑恩麒&lt;br&gt;    大提琴 / 黄子维&lt;br&gt;    单簧管 / 陈昭志&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Art Under Pressure - Repression of Music Under Stalin &amp; Echoes Today (Clinton, 纽约州, 美国)</title>
+      <link>https://enchicheng.github.io/zh/calendar/20250913/</link>
+      <pubDate>Sat, 13 Sep 2025 19:30:00 +0000</pubDate>
+      <guid>https://enchicheng.github.io/zh/calendar/20250913/</guid>
+      <description>&lt;h4 id=&#34;演出曲目&#34;&gt;演出曲目&lt;/h4&gt;
+&lt;p&gt;肖斯塔科维奇：E小调第二号钢琴三重奏，作品67&lt;br&gt;    钢琴 / Sar-Shalom Strong&lt;br&gt;    小提琴 / Shem Guibbory&lt;br&gt;    大提琴 / Andrey Tchekmazov&lt;/p&gt;
+&lt;p&gt;魏因贝格：钢琴五重奏，作品18&lt;br&gt;    钢琴 / Sar-Shalom Strong&lt;br&gt;    小提琴 / Shem Guibbory&lt;br&gt;    小提琴 / Edgar Tumajyan&lt;br&gt;    中提琴 / En-Chi Cheng&lt;br&gt;    大提琴 / Andrey Tchekmazov&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Art Under Pressure 研讨会 (Clinton, 纽约州, 美国)</title>
+      <link>https://enchicheng.github.io/zh/calendar/20250912/</link>
+      <pubDate>Fri, 12 Sep 2025 16:00:00 +0000</pubDate>
+      <guid>https://enchicheng.github.io/zh/calendar/20250912/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2025 秋季活动 (9月 - 10月)</title>
+      <link>https://enchicheng.github.io/zh/latest/20250901/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://enchicheng.github.io/zh/latest/20250901/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;贡献与连结是我对艺术价值的核心信念&lt;/strong&gt;。我一直深信，艺术与音乐能跨越界线，直接触动人心，将人们凝聚在一起。这个秋天，我非常期待能将三场精彩的音乐会带到乡村社区，与更广泛的听众朋友分享这些音乐盛宴。所有活动均为免费并对大众开放，诚挚邀请大家共襄盛举。&lt;/p&gt;
+&lt;p&gt;9月12日至13日，我很荣幸受邀参与Hamilton College (Clinton, 纽约州)的驻校艺术计画&lt;strong&gt;压力下的艺术：斯大林政权下的音乐创作与当代回响&lt;/strong&gt;（Art Under Pressure: Repression of Music Under Stalin &amp;amp; Echoes Today），探索音乐如何在政治压迫下存续与发展。活动亮点包括与俄罗斯文学及历史学者进行的&lt;a href=&#34;https://enchicheng.github.io/zh/calendar/20250912&#34;&gt;&lt;strong&gt;专题座谈&lt;/strong&gt;&lt;/a&gt;（9月12日），以及一场由结合多媒体的&lt;a href=&#34;https://enchicheng.github.io/zh/calendar/20250913&#34;&gt;&lt;strong&gt;沉浸式音乐会&lt;/strong&gt;&lt;/a&gt;（9月13日），我将与小提琴家Shem Guibbory、Edgar Tumajyan、大提琴家Andrey Tchekmazov和钢琴家Sar-Shalom Strong共同演出&lt;strong&gt;魏因贝格的《钢琴五重奏，作品18》&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;9月27日在台湾云林县，我将与一群优秀的台湾青年音乐家共同呈现&lt;a href=&#34;https://enchicheng.github.io/zh/calendar/20250927&#34;&gt;&lt;strong&gt;璀璨传承・星光熠熠&lt;/strong&gt;&lt;/a&gt;音乐盛会，以歌剧与室内乐的经典作品欢庆艺术永恒之美。非常开心能再次与柯蒂斯音乐学院校友&amp;mdash;钢琴家廖巧涵、小提琴家许轩豪合作，以及和我在纽约的好友单簧管演奏家陈昭志、大提琴家黄子维同台演出。&lt;/p&gt;
+&lt;p&gt;今年十月，我将参与由「Moscow Clayworks」举办为期一个月的 &lt;em&gt;&lt;strong&gt;Crafting Friendships艺术特展&lt;/strong&gt;&lt;/em&gt;，庆祝Scranton社区中历久弥新的艺术与人情连结。 10月3日在两大展馆的开幕晚会中，我将为与会来宾带来&lt;a href=&#34;https://enchicheng.github.io/zh/calendar/20251003&#34;&gt;&lt;strong&gt;两场迷你中提琴独奏会&lt;/strong&gt;&lt;/a&gt;，演出当代作曲家朋友们&amp;mdash;Garth Knox、Daniel Temkin、李哲艺和Dave Soldier创作的中提琴独奏作品，&lt;strong&gt;致敬因艺术而相聚的情谊&lt;/strong&gt;。&lt;/p&gt;
 </description>
     </item>
     
@@ -187,7 +234,7 @@ Jordan Hall (波士顿, 马萨诸塞州, 美国)&lt;/p&gt;
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://enchicheng.github.io/zh/latest/20250601/</guid>
       <description>&lt;p&gt;很开心今年将再度以教师身份重返 &lt;a href=&#34;https://cmceast.org/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chamber Music Conference 音乐节（CMC）&lt;/a&gt;！我将参与音乐节的第一周(7月6日至13日)，除了密集教学，也将在7月9日（三）与 Yezu Woo、Mayuki Fukuhara、Laura Metcalf三位音乐家伙伴共同演出海顿《C大调弦乐四重奏，作品20之2》。非常期待连续第三年回到 CMC 音乐盛宴！&lt;/p&gt;
-&lt;p&gt;实现十二年之约！应「涴莎艺术展演中心」邀请，8月将在&lt;a href=&#34;https://enchicheng.github.io/calendar/20250809/&#34;&gt;台南&lt;/a&gt;与&lt;a href=&#34;https://enchicheng.github.io/calendar/20250814/&#34;&gt;台北&lt;/a&gt;出演两场室内乐音乐会。这次终于要实现与挚友、小提琴家许轩豪的十二年约定，此刻心潮澎湃！2013年我们在柯蒂斯音乐学院合作演奏塔涅耶夫《G小调钢琴五重奏，作品30》深受美丽音乐震撼，当下便相约「总有一天要在故乡重现这首作品」。十二年后的今天，这个约定终于成真！&lt;/p&gt;
+&lt;p&gt;实现十二年之约！应「涴莎艺术展演中心」邀请，8月将在&lt;a href=&#34;https://enchicheng.github.io/zh/calendar/20250809/&#34;&gt;台南&lt;/a&gt;与&lt;a href=&#34;https://enchicheng.github.io/zh/calendar/20250814/&#34;&gt;台北&lt;/a&gt;出演两场室内乐音乐会。这次终于要实现与挚友、小提琴家许轩豪的十二年约定，此刻心潮澎湃！2013年我们在柯蒂斯音乐学院合作演奏塔涅耶夫《G小调钢琴五重奏，作品30》深受美丽音乐震撼，当下便相约「总有一天要在故乡重现这首作品」。十二年后的今天，这个约定终于成真！&lt;/p&gt;
 &lt;p&gt;这次塔涅耶夫五重奏的梦幻阵容除了许轩豪外，再度携手好朋友吴芯昀，也很期待首次与上地彩门（国家交响乐团大提琴首席）、林佳鋐（国立台北教育大学助理教授）两位敬重的音乐家合作！&lt;/p&gt;
 &lt;p&gt;今年夏天的行程充满活力与火花，期待与你们共享这些音乐时光！&lt;/p&gt;
 </description>

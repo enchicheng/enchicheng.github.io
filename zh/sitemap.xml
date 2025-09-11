@@ -79,7 +79,7 @@
                 />
   </url><url>
     <loc>https://enchicheng.github.io/zh/calendar/</loc>
-    <lastmod>2025-09-27T14:30:00+00:00</lastmod>
+    <lastmod>2025-10-03T18:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -95,6 +95,25 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://enchicheng.github.io/zh/calendar/"
+                />
+  </url><url>
+    <loc>https://enchicheng.github.io/zh/calendar/20251003/</loc>
+    <lastmod>2025-10-03T18:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://enchicheng.github.io/calendar/20251003/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hant"
+                href="https://enchicheng.github.io/zh-hant/calendar/20251003/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://enchicheng.github.io/zh/calendar/20251003/"
                 />
   </url><url>
     <loc>https://enchicheng.github.io/zh/calendar/20250927/</loc>
@@ -114,6 +133,82 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://enchicheng.github.io/zh/calendar/20250927/"
+                />
+  </url><url>
+    <loc>https://enchicheng.github.io/zh/calendar/20250913/</loc>
+    <lastmod>2025-09-13T19:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://enchicheng.github.io/calendar/20250913/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hant"
+                href="https://enchicheng.github.io/zh-hant/calendar/20250913/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://enchicheng.github.io/zh/calendar/20250913/"
+                />
+  </url><url>
+    <loc>https://enchicheng.github.io/zh/calendar/20250912/</loc>
+    <lastmod>2025-09-12T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://enchicheng.github.io/calendar/20250912/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hant"
+                href="https://enchicheng.github.io/zh-hant/calendar/20250912/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://enchicheng.github.io/zh/calendar/20250912/"
+                />
+  </url><url>
+    <loc>https://enchicheng.github.io/zh/latest/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://enchicheng.github.io/latest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hant"
+                href="https://enchicheng.github.io/zh-hant/latest/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://enchicheng.github.io/zh/latest/"
+                />
+  </url><url>
+    <loc>https://enchicheng.github.io/zh/latest/20250901/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://enchicheng.github.io/latest/20250901/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hant"
+                href="https://enchicheng.github.io/zh-hant/latest/20250901/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://enchicheng.github.io/zh/latest/20250901/"
                 />
   </url><url>
     <loc>https://enchicheng.github.io/zh/calendar/20250814/</loc>
@@ -190,25 +285,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://enchicheng.github.io/zh/listen/"
-                />
-  </url><url>
-    <loc>https://enchicheng.github.io/zh/latest/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://enchicheng.github.io/latest/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hant"
-                href="https://enchicheng.github.io/zh-hant/latest/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://enchicheng.github.io/zh/latest/"
                 />
   </url><url>
     <loc>https://enchicheng.github.io/zh/latest/20250615/</loc>
