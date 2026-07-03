@@ -5,12 +5,36 @@
     <link>https://enchicheng.github.io/calendar/</link>
       <atom:link href="https://enchicheng.github.io/calendar/index.xml" rel="self" type="application/rss+xml" />
     <description>En-Chi Cheng | Viola</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Feb 2026 17:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2026 14:30:00 +0000</lastBuildDate>
     <image>
       <url>https://enchicheng.github.io/media/sharing.jpg</url>
       <title>En-Chi Cheng | Viola</title>
       <link>https://enchicheng.github.io/calendar/</link>
     </image>
+    
+    <item>
+      <title>Wan Sha Chamber Music Series (Taipei, Taiwan)</title>
+      <link>https://enchicheng.github.io/calendar/20260718/</link>
+      <pubDate>Sat, 18 Jul 2026 14:30:00 +0000</pubDate>
+      <guid>https://enchicheng.github.io/calendar/20260718/</guid>
+      <description>&lt;h4 id=&#34;program&#34;&gt;Program&lt;/h4&gt;
+&lt;p&gt;Johann Sebastian Bach: 15 Sinfonias, BWV 787–801&lt;/p&gt;
+&lt;p&gt;Johann Sebastian Bach: Goldberg Variations, BWV 988&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H.E.Y. Trio&lt;/strong&gt;&lt;br&gt;    Hsuan-Hao Hsu, violin&lt;br&gt;    En-Chi Cheng, viola&lt;br&gt;    Yu-Wen Wang, cello&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wan Sha Chamber Music Series (Tainan, Taiwan)</title>
+      <link>https://enchicheng.github.io/calendar/20260711/</link>
+      <pubDate>Sat, 11 Jul 2026 19:30:00 +0000</pubDate>
+      <guid>https://enchicheng.github.io/calendar/20260711/</guid>
+      <description>&lt;h4 id=&#34;program&#34;&gt;Program&lt;/h4&gt;
+&lt;p&gt;Johann Sebastian Bach: 15 Sinfonias, BWV 787–801&lt;/p&gt;
+&lt;p&gt;Johann Sebastian Bach: Goldberg Variations, BWV 988&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H.E.Y. Trio&lt;/strong&gt;&lt;br&gt;    Hsuan-Hao Hsu, violin&lt;br&gt;    En-Chi Cheng, viola&lt;br&gt;    Yu-Wen Wang, cello&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New York Classical Players (Norwood, NJ, USA)</title>
